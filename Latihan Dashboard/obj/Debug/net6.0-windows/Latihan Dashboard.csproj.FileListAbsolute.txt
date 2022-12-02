@@ -1,0 +1,29 @@
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\Latihan Dashboard.exe
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\Latihan Dashboard.deps.json
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\Latihan Dashboard.runtimeconfig.json
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\Latihan Dashboard.dll
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\Latihan Dashboard.pdb
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan Dashboard.csproj.AssemblyReference.cache
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan_Dashboard.Form1.resources
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan_Dashboard.Properties.Resources.resources
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan Dashboard.csproj.GenerateResource.cache
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan Dashboard.AssemblyInfoInputs.cache
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan Dashboard.AssemblyInfo.cs
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan Dashboard.csproj.CoreCompileInputs.cache
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan Dashboard.dll
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\refint\Latihan Dashboard.dll
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan Dashboard.pdb
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan Dashboard.genruntimeconfig.cache
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\ref\Latihan Dashboard.dll
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan_Dashboard.Form2.resources
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan Dashboard.csproj.CopyComplete
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan_Dashboard.Form3.resources
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan_Dashboard.Form4.resources
+D:\dekstop programming\Latihan Dashboard\Latihan Dashboard\obj\Debug\net6.0-windows\Latihan_Dashboard.Form5.resources
